@@ -25,9 +25,7 @@ I am a third-year Mathematics of Computation undergraduate at UCLA, also pursuin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jsontran5&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=jsontran5&icon=0&color=1)](https://visitcount.itsvg.in)
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jsontran5) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
