@@ -6,13 +6,17 @@ I am a third-year Mathematics of Computation undergraduate at UCLA, also pursuin
 
 ### 🚀 Projects I've Worked On:
 * [WingstopFreeFries](https://wingstopfreefries.xyz)  
-  * An open-source coupon generator that automates restaurant survey coupons, leading to over $8,000 in savings with over 1,500 uses.  
-
+  * An open-source coupon generator that automates restaurant survey coupons, leading to over $8,000 in savings with over 1,500 uses.
+   
+* [ACM at UCLA](https://www.uclaacm.com/)  
+  * Contributed to the back-end of the ACM Membership Portal, supporting the largest Computer Science community at UCLA by enabling user authentication, RSVP tracking, and membership management.
+  
 * [Predicting Doordash Deliveries](https://github.com/Jsontran5/doordashdelivery)  
   * Built predictive models for DoorDash delivery times, achieving 87% accuracy using machine learning techniques.  
 
 * [UCLA Dance Hub](https://github.com/Jsontran5/UCLA-Dance-Hub)  
-  * A web app for UCLA dance teams to schedule events and engage with their communities.  
+  * A web app for UCLA dance teams to schedule events and engage with their communities.
+
 
 ---
 <div align="center">
