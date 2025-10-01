@@ -5,6 +5,9 @@
 I am a third-year Mathematics of Computation undergraduate at UCLA, also pursuing a Data Science Engineering minor, with a passion for software development. I am excited about exploring various areas of software development, including front-end, back-end, and full-stack development. Additionally, I am deeply interested in data science and the ever-evolving fields of AI and machine learning.
 
 ### 🚀 Projects I've Worked On:
+* [Personal Portfolio](https://tranjason.me/)  
+  * A cleaner place that showcases all my cool projects!
+    
 * [WingstopFreeFries](https://wingstopfreefries.xyz)  
   * An open-source coupon generator that automates restaurant survey coupons, leading to over $8,000 in savings with over 1,500 uses.
    
